@@ -1,0 +1,21 @@
+body{
+    background-color: #1b1815 !important;
+}
+.buybtn{
+    padding: 20px 70px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: 800;
+    background-color: #E8D8C9;
+    border: 6px solid black !important;
+    border-radius: 35px !important;
+}
+
+@media (max-width: 600px) {
+   .gh{
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+   }
+}
